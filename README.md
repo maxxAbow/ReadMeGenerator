@@ -45,31 +45,8 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 ```
 
-## Getting Started
-
-Here are some guidelines to help you get started:
-
-* Create a `.gitignore` file and include `node_modules/` and `.DS_Store/` so that your `node_modules` directory isn't tracked or uploaded to GitHub. Be sure to create your `.gitignore` file before installing any npm dependencies.
-
-* Make sure that your repo includes a `package.json` with the required dependencies. You can create one by running `npm init` when you first set up the project, before installing any dependencies.
-
-* Include a video of the typical user flow through your application. This includes views of the prompts and the responses after their selection.
-
-* Refer to the [Fullstack Blog Video Submission Guide](https://coding-boot-camp.github.io/full-stack/computer-literacy/video-submission-guide) for additional guidance on creating a video.
-
-* Include any other screenshots you deem necessary to help someone who has never been introduced to your application understand the purpose and function of it. This is how you will communicate to potential employers or other developers in the future what you built and why, and to show how it works.
 
 ## Grading Requirements
-
-> **Note**: If a Challenge assignment submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
->
-> * A repository that has no code
->
-> * A repository that includes a unique name but nothing else
->
-> * A repository that includes only a README file but nothing else
->
-> * A repository that only includes starter code
 
 This Challenge is graded based on the following criteria: 
 
@@ -108,16 +85,5 @@ This Challenge is graded based on the following criteria:
 * Repository contains a high-quality README with description and a link to walkthrough video.
 
 
-## Review
+## Video Walkthrough
 
-You are required to submit the following for review:
-
-* A walkthrough video demonstrating the functionality of the application.
-
-* A sample README.md file for a project repository generated using your application
-
-* The URL of the GitHub repository, with a unique name and a README describing the project
-
----
-
-© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
